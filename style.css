@@ -15,7 +15,7 @@ body{
 main{
   height: 100vh;
   max-width: 100%;
-  background-image: url('/bg-intro-desktop.png');
+  background-image: url('bg-intro-desktop.png');
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
@@ -147,7 +147,7 @@ footer{
 
 @media only screen and (max-width:700px)and (min-width:375px){
   main{
-      background-image: url('/bg-intro-mobile.png');
+      background-image: url('bg-intro-mobile.png');
       background-repeat: no-repeat;
       background-size: cont as in;
       background-position: center;
@@ -169,7 +169,7 @@ footer{
 }
 @media only screen and (max-width:1440px) and (min-width:710px){
   main{
-      background-image: url('/bg-intro-desktop.png');
+      background-image: url('bg-intro-desktop.png');
       background-repeat: no-repeat;
       background-size: cover;
   }
